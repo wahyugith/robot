@@ -1,0 +1,18 @@
+{
+    "menusimple" : true, 
+    "single" : true, 
+    "antitags" : false, 
+    "antical" : true, 
+    "antitoxic" : true, 
+    "banChats" : true, 
+    "offline" : false, 
+    "multi" : false, 
+    "nopref" : false, 
+    "antidel" : false, 
+    "readGc" : false, 
+    "readPc" : false, 
+    "autoketik" : false, 
+    "autorekam" : false, 
+    "welcome" : false, 
+    "autobio" : false
+}
